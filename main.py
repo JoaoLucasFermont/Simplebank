@@ -128,8 +128,5 @@ lang = int(input("--> "))
 
 if lang == "1":
     Pt_br()
-if lang == "2":
-    En()
-
 else:
     print("idioma não configurado")
